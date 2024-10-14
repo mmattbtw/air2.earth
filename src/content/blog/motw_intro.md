@@ -1,12 +1,12 @@
 ---
 title: "media of the week! | ITS BACK!!!"
-description: "an reintroduction to the weekly 'media of the week' series that started on my Tumblr blog! its back! and now on mmatt.net"
+description: "an reintroduction to the weekly 'media of the week' series that started on my Tumblr blog! its back! and now on air2.earth"
 category: "media of the week"
 heroImage: "/motw/motwINTRO.png"
 pubDate: 2024-10-10 23:35
 link: "https://air2.earth"
 originalPost: "https://social.lol/@matt/113286932611372364"
-author: { name: "Matt Morris", url: "https://mmatt.net" }
+author: { name: "mmatt", url: "https://mmatt.net" }
 ---
 
 # media of the week is back!

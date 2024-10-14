@@ -5,7 +5,7 @@ category: "media of the week"
 heroImage: "/motw/motw5.png"
 pubDate: 2024-3-25 16:50
 link: "https://air2.earth"
-author: { name: "Matt Morris", url: "https://mmatt.net" }
+author: { name: "mmatt", url: "https://mmatt.net" }
 ---
 
 (posted late :p was busy soz)

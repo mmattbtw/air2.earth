@@ -5,7 +5,7 @@ category: "media of the week"
 heroImage: "/motw/motw2.png"
 pubDate: 2024-2-23 17:42
 link: "https://air2.earth"
-author: { name: "Matt Morris", url: "https://mmatt.net" }
+author: { name: "mmatt", url: "https://mmatt.net" }
 ---
 
 Slow week :p
