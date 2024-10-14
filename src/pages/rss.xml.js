@@ -9,7 +9,7 @@ export async function GET(context) {
   return rss({
     title: "air2.earth",
     description: "the informal blog space companion from mmatt.net",
-    site: context.site,
+    site: "https://air2.earth",
     items: posts.map((post) => ({
       link: `/blog/${post.slug}/`,
       content: sanitizeHtml(parser.render(post.body), {
