@@ -12,12 +12,12 @@ export async function GET(context) {
     site: "https://air2.earth",
     items: posts.map((post) => ({
       link: `/blog/${post.slug}/`,
-      content: sanitizeHtml(parser.render(post.body), {
-        allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
-      }),
       title: post.title,
       description: post.description,
       pubDate: post.pubDate,
+      content: sanitizeHtml(parser.render(post.body), {
+        allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
+      }),
     })),
   });
 }
