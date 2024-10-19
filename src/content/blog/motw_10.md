@@ -3,7 +3,7 @@ title: "media of the week! | 10/18/2024"
 description: "part ten - a week of music/movies/tv/games i have been enjoying throughout the past week!"
 category: "media of the week"
 heroImage: "/motw/motw10.png"
-pubDate: 2024-10-19 00:30
+pubDate: 2024-10-19 00:16
 link: "https://air2.earth"
 author: { name: "mmatt", url: "https://mmatt.net" }
 ---
