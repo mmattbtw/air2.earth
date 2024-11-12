@@ -1,5 +1,5 @@
 ---
-title: "media of the week! | 10/18/2024"
+title: "media of the week! | 10/19/2024"
 description: "part ten - a week of music/movies/tv/games i have been enjoying throughout the past week!"
 category: "media of the week"
 heroImage: "/motw/motw10.png"
