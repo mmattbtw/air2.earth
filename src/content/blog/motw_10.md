@@ -56,6 +56,6 @@ same old same old.. also been playing lots of IIDX at home, super fun!
 
 ---
 
-I joined Bluesky! you can check my account out at [@mmatt.net](https://bsky.app/profile/mmatt.net)
+I joined Bluesky! you can check my account out at [@air2.earth](https://bsky.app/profile/did:plc:i2z6xnjlsjvpnijtfhh5xunc)
 
 # <span class="npf_color_rachel">SEE YOU NEXT WEEK!</span>
