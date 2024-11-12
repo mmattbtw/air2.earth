@@ -5,7 +5,11 @@ category: "media of the week"
 heroImage: "/motw/motw1.png"
 pubDate: 2024-2-16 21:31
 link: "https://air2.earth"
-author: { name: "mmatt", url: "https://mmatt.net" }
+author:
+  {
+    name: "matt",
+    url: "https://bsky.app/profile/did:plc:i2z6xnjlsjvpnijtfhh5xunc",
+  }
 ---
 
 Stealing this idea from [Emergency Intercom](https://www.youtube.com/@EmergencyIntercom), me and a group of friends are gonna try to start doing this every week so stay tuned!

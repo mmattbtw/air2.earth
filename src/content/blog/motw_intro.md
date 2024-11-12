@@ -6,7 +6,11 @@ heroImage: "/motw/motwINTRO.png"
 pubDate: 2024-10-10 23:35
 link: "https://air2.earth"
 originalPost: "https://social.lol/@matt/113286932611372364"
-author: { name: "mmatt", url: "https://mmatt.net" }
+author:
+  {
+    name: "matt",
+    url: "https://bsky.app/profile/did:plc:i2z6xnjlsjvpnijtfhh5xunc",
+  }
 ---
 
 # media of the week is back!

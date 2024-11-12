@@ -6,7 +6,11 @@ heroImage: "/motw/motw9.png"
 pubDate: 2024-10-11 23:41
 link: "https://air2.earth"
 originalPost: "https://social.lol/@matt/113292621553677742"
-author: { name: "mmatt", url: "https://mmatt.net" }
+author:
+  {
+    name: "matt",
+    url: "https://bsky.app/profile/did:plc:i2z6xnjlsjvpnijtfhh5xunc",
+  }
 ---
 
 ## <span class="npf_color_ross">Music</span>

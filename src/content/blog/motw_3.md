@@ -5,7 +5,11 @@ category: "media of the week"
 heroImage: "/motw/motw3.png"
 pubDate: 2024-3-09 13:52
 link: "https://air2.earth"
-author: { name: "mmatt", url: "https://mmatt.net" }
+author:
+  {
+    name: "matt",
+    url: "https://bsky.app/profile/did:plc:i2z6xnjlsjvpnijtfhh5xunc",
+  }
 ---
 
 I forgot to do it last week so some stuff will be from last week. :p Also this week was my spring break ^\_^

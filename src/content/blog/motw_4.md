@@ -5,7 +5,11 @@ category: "media of the week"
 heroImage: "/motw/motw4.png"
 pubDate: 2024-3-15 16:15
 link: "https://air2.earth"
-author: { name: "mmatt", url: "https://mmatt.net" }
+author:
+  {
+    name: "matt",
+    url: "https://bsky.app/profile/did:plc:i2z6xnjlsjvpnijtfhh5xunc",
+  }
 ---
 
 ## <span class="npf_color_ross">Music</span>
